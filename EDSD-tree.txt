@@ -1,0 +1,240 @@
+/fslhome/oct0695/psych516/EDSD/my_dataset
+|-- CHANGES\ (2)
+|-- dataset_description.json
+|-- participants.tsv
+|-- sub-FREAD001
+|   |-- anat
+|   |   |-- sub-FREAD001_T1w.json
+|   |   `-- sub-FREAD001_T1w.nii
+|   `-- dwi
+|       |-- sub-FREAD001_dwi.bval
+|       |-- sub-FREAD001_dwi.bvec
+|       |-- sub-FREAD001_dwi.json
+|       `-- sub-FREAD001_dwi.nii.gz
+|-- sub-FREAD002
+|   |-- anat
+|   |   |-- sub-FREAD002_T1w.json
+|   |   `-- sub-FREAD002_T1w.nii
+|   `-- dwi
+|       |-- sub-FREAD002_dwi.bval
+|       |-- sub-FREAD002_dwi.bvec
+|       |-- sub-FREAD002_dwi.json
+|       `-- sub-FREAD002_dwi.nii.gz
+|-- sub-FREAD003
+|   |-- anat
+|   |   |-- sub-FREAD003_T1w.json
+|   |   `-- sub-FREAD003_T1w.nii
+|   `-- dwi
+|       |-- sub-FREAD003_dwi.bval
+|       |-- sub-FREAD003_dwi.bvec
+|       |-- sub-FREAD003_dwi.json
+|       `-- sub-FREAD003_dwi.nii.gz
+|-- sub-FREAD004
+|   |-- anat
+|   |   |-- sub-FREAD004_T1w.json
+|   |   `-- sub-FREAD004_T1w.nii
+|   `-- dwi
+|       |-- sub-FREAD004_dwi.bval
+|       |-- sub-FREAD004_dwi.bvec
+|       |-- sub-FREAD004_dwi.json
+|       `-- sub-FREAD004_dwi.nii.gz
+|-- sub-FREAD005
+|   |-- anat
+|   |   |-- sub-FREAD005_T1w.json
+|   |   `-- sub-FREAD005_T1w.nii
+|   `-- dwi
+|       |-- sub-FREAD005_dwi.bval
+|       |-- sub-FREAD005_dwi.bvec
+|       |-- sub-FREAD005_dwi.json
+|       `-- sub-FREAD005_dwi.nii.gz
+|-- sub-FREAD006
+|   |-- anat
+|   |   |-- sub-FREAD006_T1w.json
+|   |   `-- sub-FREAD006_T1w.nii
+|   `-- dwi
+|       |-- sub-FREAD006_dwi.bval
+|       |-- sub-FREAD006_dwi.bvec
+|       |-- sub-FREAD006_dwi.json
+|       `-- sub-FREAD006_dwi.nii.gz
+|-- sub-FREAD007
+|   |-- anat
+|   |   |-- sub-FREAD007_T1w.json
+|   |   `-- sub-FREAD007_T1w.nii
+|   `-- dwi
+|       |-- sub-FREAD007_dwi.bval
+|       |-- sub-FREAD007_dwi.bvec
+|       |-- sub-FREAD007_dwi.json
+|       `-- sub-FREAD007_dwi.nii.gz
+|-- sub-FREAD008
+|   |-- anat
+|   |   |-- sub-FREAD008_T1w.json
+|   |   `-- sub-FREAD008_T1w.nii
+|   `-- dwi
+|       |-- sub-FREAD008_dwi.bval
+|       |-- sub-FREAD008_dwi.bvec
+|       |-- sub-FREAD008_dwi.json
+|       `-- sub-FREAD008_dwi.nii.gz
+|-- sub-FREAD009
+|   |-- anat
+|   |   |-- sub-FREAD009_T1w.json
+|   |   `-- sub-FREAD009_T1w.nii
+|   `-- dwi
+|       |-- sub-FREAD009_dwi.bval
+|       |-- sub-FREAD009_dwi.bvec
+|       |-- sub-FREAD009_dwi.json
+|       `-- sub-FREAD009_dwi.nii.gz
+|-- sub-FREAD010
+|   |-- anat
+|   |   |-- sub-FREAD010_T1w.json
+|   |   `-- sub-FREAD010_T1w.nii
+|   `-- dwi
+|       |-- sub-FREAD010_dwi.bval
+|       |-- sub-FREAD010_dwi.bvec
+|       |-- sub-FREAD010_dwi.json
+|       `-- sub-FREAD010_dwi.nii.gz
+|-- sub-FREHC001
+|   |-- anat
+|   |   |-- sub-FREHC001_T1w.json
+|   |   `-- sub-FREHC001_T1w.nii
+|   `-- dwi
+|       |-- sub-FREHC001_dwi.bval
+|       |-- sub-FREHC001_dwi.bvec
+|       |-- sub-FREHC001_dwi.json
+|       `-- sub-FREHC001_dwi.nii.gz
+|-- sub-FREHC002
+|   |-- anat
+|   |   |-- sub-FREHC002_T1w.json
+|   |   `-- sub-FREHC002_T1w.nii
+|   `-- dwi
+|       |-- sub-FREHC002_dwi.bval
+|       |-- sub-FREHC002_dwi.bvec
+|       |-- sub-FREHC002_dwi.json
+|       `-- sub-FREHC002_dwi.nii.gz
+|-- sub-FREHC003
+|   |-- anat
+|   |   |-- sub-FREHC003_T1w.json
+|   |   `-- sub-FREHC003_T1w.nii
+|   `-- dwi
+|       |-- sub-FREHC003_dwi.bval
+|       |-- sub-FREHC003_dwi.bvec
+|       |-- sub-FREHC003_dwi.json
+|       `-- sub-FREHC003_dwi.nii.gz
+|-- sub-FREHC004
+|   |-- anat
+|   |   |-- sub-FREHC004_T1w.json
+|   |   `-- sub-FREHC004_T1w.nii
+|   `-- dwi
+|       |-- sub-FREHC004_dwi.bval
+|       |-- sub-FREHC004_dwi.bvec
+|       |-- sub-FREHC004_dwi.json
+|       `-- sub-FREHC004_dwi.nii.gz
+|-- sub-FREHC005
+|   |-- anat
+|   |   |-- sub-FREHC005_T1w.json
+|   |   `-- sub-FREHC005_T1w.nii
+|   `-- dwi
+|       |-- sub-FREHC005_dwi.bval
+|       |-- sub-FREHC005_dwi.bvec
+|       |-- sub-FREHC005_dwi.json
+|       `-- sub-FREHC005_dwi.nii.gz
+|-- sub-FREHC006
+|   |-- anat
+|   |   |-- sub-FREHC006_T1w.json
+|   |   `-- sub-FREHC006_T1w.nii
+|   `-- dwi
+|       |-- sub-FREHC006_dwi.bval
+|       |-- sub-FREHC006_dwi.bvec
+|       |-- sub-FREHC006_dwi.json
+|       `-- sub-FREHC006_dwi.nii.gz
+|-- sub-FREHC007
+|   |-- anat
+|   |   |-- sub-FREHC007_T1w.json
+|   |   `-- sub-FREHC007_T1w.nii
+|   `-- dwi
+|       |-- sub-FREHC007_dwi.bval
+|       |-- sub-FREHC007_dwi.bvec
+|       |-- sub-FREHC007_dwi.json
+|       `-- sub-FREHC007_dwi.nii.gz
+|-- sub-FREHC008
+|   |-- anat
+|   |   |-- sub-FREHC008_T1w.json
+|   |   `-- sub-FREHC008_T1w.nii
+|   `-- dwi
+|       |-- sub-FREHC008_dwi.bval
+|       |-- sub-FREHC008_dwi.bvec
+|       |-- sub-FREHC008_dwi.json
+|       `-- sub-FREHC008_dwi.nii.gz
+|-- sub-FREHC009
+|   |-- anat
+|   |   |-- sub-FREHC009_T1w.json
+|   |   `-- sub-FREHC009_T1w.nii
+|   `-- dwi
+|       |-- sub-FREHC009_dwi.bval
+|       |-- sub-FREHC009_dwi.bvec
+|       |-- sub-FREHC009_dwi.json
+|       `-- sub-FREHC009_dwi.nii.gz
+|-- sub-FREHC010
+|   |-- anat
+|   |   |-- sub-FREHC010_T1w.json
+|   |   `-- sub-FREHC010_T1w.nii
+|   `-- dwi
+|       |-- sub-FREHC010_dwi.bval
+|       |-- sub-FREHC010_dwi.bvec
+|       |-- sub-FREHC010_dwi.json
+|       `-- sub-FREHC010_dwi.nii.gz
+|-- sub-FREHC011
+|   |-- anat
+|   |   |-- sub-FREHC011_T1w.json
+|   |   `-- sub-FREHC011_T1w.nii
+|   `-- dwi
+|       |-- sub-FREHC011_dwi.bval
+|       |-- sub-FREHC011_dwi.bvec
+|       |-- sub-FREHC011_dwi.json
+|       `-- sub-FREHC011_dwi.nii.gz
+|-- sub-FREHC012
+|   |-- anat
+|   |   |-- sub-FREHC012_T1w.json
+|   |   `-- sub-FREHC012_T1w.nii
+|   `-- dwi
+|       |-- sub-FREHC012_dwi.bval
+|       |-- sub-FREHC012_dwi.bvec
+|       |-- sub-FREHC012_dwi.json
+|       `-- sub-FREHC012_dwi.nii.gz
+|-- sub-FREHC013
+|   |-- anat
+|   |   |-- sub-FREHC013_T1w.json
+|   |   `-- sub-FREHC013_T1w.nii
+|   `-- dwi
+|       |-- sub-FREHC013_dwi.bval
+|       |-- sub-FREHC013_dwi.bvec
+|       |-- sub-FREHC013_dwi.json
+|       `-- sub-FREHC013_dwi.nii.gz
+|-- sub-FREHC014
+|   |-- anat
+|   |   |-- sub-FREHC014_T1w.json
+|   |   `-- sub-FREHC014_T1w.nii
+|   `-- dwi
+|       |-- sub-FREHC014_dwi.bval
+|       |-- sub-FREHC014_dwi.bvec
+|       |-- sub-FREHC014_dwi.json
+|       `-- sub-FREHC014_dwi.nii.gz
+|-- sub-FREHC015
+|   |-- anat
+|   |   |-- sub-FREHC015_T1w.json
+|   |   `-- sub-FREHC015_T1w.nii
+|   `-- dwi
+|       |-- sub-FREHC015_dwi.bval
+|       |-- sub-FREHC015_dwi.bvec
+|       |-- sub-FREHC015_dwi.json
+|       `-- sub-FREHC015_dwi.nii.gz
+`-- sub-FREHC016
+    |-- anat
+    |   |-- sub-FREHC016_T1w.json
+    |   `-- sub-FREHC016_T1w.nii
+    `-- dwi
+        |-- sub-FREHC016_dwi.bval
+        |-- sub-FREHC016_dwi.bvec
+        |-- sub-FREHC016_dwi.json
+        `-- sub-FREHC016_dwi.nii.gz
+
+78 directories, 159 files
