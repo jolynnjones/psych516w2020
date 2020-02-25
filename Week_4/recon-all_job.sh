@@ -17,5 +17,5 @@ recon-all \
 -i ${1}_T1w.nii.gz \
 -wsatlas \
 -all \
--sd ~/psych516/EDSD/my_dataset/FS_subjdir/${1}/  
+-sd ~/psych516/EDSD/my_dataset/FS_subjdir/  
 
