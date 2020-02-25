@@ -1,7 +1,7 @@
 #!/bin/bash
 
 curTime=`date +"%Y%m%d-%H%M%S"`
-mkdir -p ~/logfiles/EDSD/${curTime}-t1
+mkdir -p ~/logfiles/EDSD/${curTime}-reconall
 
 for i in sub-FREAD001; do
 #for i in `cat ~/psych516/EDSD/participants.txt`; do
