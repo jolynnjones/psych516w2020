@@ -18,4 +18,4 @@ recon-all \
 -wsatlas \
 -all \
 -bigventricles \
--sd ~/psych516/EDSD/my_dataset/FS_bigv_subjdir/${1}/
+-sd ~/psych516/EDSD/my_dataset/FS_bigv_subjdir/
