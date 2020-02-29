@@ -7,7 +7,7 @@ for i in `cat ~/psych516/EDSD/participants.txt`; do
 	sbatch \
 	-o ~/logfiles/EDSD/${curTime}-symlinkdwi/o-${i}.txt \
 	-e ~/logfiles/EDSD/${curTime}-symlinkdwi/e-${i}.txt \
-	~/psych516/scripts/symlinkdwi_job.sh \
+	~/psych516/scripts/b0_mask_job.sh \
 	${i}
 	sleep 1
 done
