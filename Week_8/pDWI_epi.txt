@@ -1,0 +1,887 @@
+/fslhome/oct0695/psych516/EDSD/pDWI/
+|-- sub-FREAD001
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREAD001_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREAD001_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREAD001_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREAD001_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD001/dwi/sub-FREAD001_dwi.bval
+|       |-- sub-FREAD001_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD001/dwi/sub-FREAD001_dwi.bvec
+|       |-- sub-FREAD001_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD001/dwi/sub-FREAD001_dwi.nii.gz
+|       |-- sub-FREAD001_dwi_b0.nii.gz
+|       |-- sub-FREAD001_dwi_b0__mask.nii.gz
+|       |-- sub-FREAD001_dwi_eddy.eddy_command_txt
+|       |-- sub-FREAD001_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREAD001_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREAD001_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREAD001_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREAD001_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREAD001_dwi_eddy.eddy_parameters
+|       |-- sub-FREAD001_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREAD001_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREAD001_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREAD001_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREAD001_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREAD001_dwi_eddy.nii.gz
+|       |-- sub-FREAD001_dwi_eddy_b0.nii.gz
+|       |-- sub-FREAD001_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREAD001_dwi_epi.nii.gz
+|       |-- sub-FREAD001_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREAD001_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREAD001_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREAD001_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREAD001_dwi_epi_Warped.nii.gz
+|       `-- sub-FREAD001_t1.nii.gz
+|-- sub-FREAD002
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREAD002_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREAD002_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREAD002_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREAD002_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD002/dwi/sub-FREAD002_dwi.bval
+|       |-- sub-FREAD002_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD002/dwi/sub-FREAD002_dwi.bvec
+|       |-- sub-FREAD002_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD002/dwi/sub-FREAD002_dwi.nii.gz
+|       |-- sub-FREAD002_dwi_b0.nii.gz
+|       |-- sub-FREAD002_dwi_b0__mask.nii.gz
+|       |-- sub-FREAD002_dwi_eddy.eddy_command_txt
+|       |-- sub-FREAD002_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREAD002_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREAD002_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREAD002_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREAD002_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREAD002_dwi_eddy.eddy_parameters
+|       |-- sub-FREAD002_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREAD002_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREAD002_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREAD002_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREAD002_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREAD002_dwi_eddy.nii.gz
+|       |-- sub-FREAD002_dwi_eddy_b0.nii.gz
+|       |-- sub-FREAD002_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREAD002_dwi_epi.nii.gz
+|       |-- sub-FREAD002_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREAD002_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREAD002_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREAD002_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREAD002_dwi_epi_Warped.nii.gz
+|       `-- sub-FREAD002_t1.nii.gz
+|-- sub-FREAD003
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREAD003_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREAD003_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREAD003_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREAD003_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD003/dwi/sub-FREAD003_dwi.bval
+|       |-- sub-FREAD003_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD003/dwi/sub-FREAD003_dwi.bvec
+|       |-- sub-FREAD003_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD003/dwi/sub-FREAD003_dwi.nii.gz
+|       |-- sub-FREAD003_dwi_b0.nii.gz
+|       |-- sub-FREAD003_dwi_b0__mask.nii.gz
+|       |-- sub-FREAD003_dwi_eddy.eddy_command_txt
+|       |-- sub-FREAD003_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREAD003_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREAD003_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREAD003_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREAD003_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREAD003_dwi_eddy.eddy_parameters
+|       |-- sub-FREAD003_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREAD003_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREAD003_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREAD003_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREAD003_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREAD003_dwi_eddy.nii.gz
+|       |-- sub-FREAD003_dwi_eddy_b0.nii.gz
+|       |-- sub-FREAD003_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREAD003_dwi_epi.nii.gz
+|       |-- sub-FREAD003_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREAD003_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREAD003_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREAD003_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREAD003_dwi_epi_Warped.nii.gz
+|       `-- sub-FREAD003_t1.nii.gz
+|-- sub-FREAD004
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREAD004_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREAD004_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREAD004_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREAD004_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD004/dwi/sub-FREAD004_dwi.bval
+|       |-- sub-FREAD004_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD004/dwi/sub-FREAD004_dwi.bvec
+|       |-- sub-FREAD004_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD004/dwi/sub-FREAD004_dwi.nii.gz
+|       |-- sub-FREAD004_dwi_b0.nii.gz
+|       |-- sub-FREAD004_dwi_b0__mask.nii.gz
+|       |-- sub-FREAD004_dwi_eddy.eddy_command_txt
+|       |-- sub-FREAD004_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREAD004_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREAD004_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREAD004_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREAD004_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREAD004_dwi_eddy.eddy_parameters
+|       |-- sub-FREAD004_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREAD004_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREAD004_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREAD004_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREAD004_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREAD004_dwi_eddy.nii.gz
+|       |-- sub-FREAD004_dwi_eddy_b0.nii.gz
+|       |-- sub-FREAD004_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREAD004_dwi_epi.nii.gz
+|       |-- sub-FREAD004_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREAD004_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREAD004_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREAD004_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREAD004_dwi_epi_Warped.nii.gz
+|       `-- sub-FREAD004_t1.nii.gz
+|-- sub-FREAD005
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREAD005_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREAD005_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREAD005_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREAD005_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD005/dwi/sub-FREAD005_dwi.bval
+|       |-- sub-FREAD005_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD005/dwi/sub-FREAD005_dwi.bvec
+|       |-- sub-FREAD005_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD005/dwi/sub-FREAD005_dwi.nii.gz
+|       |-- sub-FREAD005_dwi_b0.nii.gz
+|       |-- sub-FREAD005_dwi_b0__mask.nii.gz
+|       |-- sub-FREAD005_dwi_eddy.eddy_command_txt
+|       |-- sub-FREAD005_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREAD005_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREAD005_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREAD005_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREAD005_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREAD005_dwi_eddy.eddy_parameters
+|       |-- sub-FREAD005_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREAD005_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREAD005_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREAD005_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREAD005_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREAD005_dwi_eddy.nii.gz
+|       |-- sub-FREAD005_dwi_eddy_b0.nii.gz
+|       |-- sub-FREAD005_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREAD005_dwi_epi.nii.gz
+|       |-- sub-FREAD005_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREAD005_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREAD005_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREAD005_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREAD005_dwi_epi_Warped.nii.gz
+|       `-- sub-FREAD005_t1.nii.gz
+|-- sub-FREAD006
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREAD006_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREAD006_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREAD006_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREAD006_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD006/dwi/sub-FREAD006_dwi.bval
+|       |-- sub-FREAD006_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD006/dwi/sub-FREAD006_dwi.bvec
+|       |-- sub-FREAD006_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD006/dwi/sub-FREAD006_dwi.nii.gz
+|       |-- sub-FREAD006_dwi_b0.nii.gz
+|       |-- sub-FREAD006_dwi_b0__mask.nii.gz
+|       |-- sub-FREAD006_dwi_eddy.eddy_command_txt
+|       |-- sub-FREAD006_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREAD006_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREAD006_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREAD006_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREAD006_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREAD006_dwi_eddy.eddy_parameters
+|       |-- sub-FREAD006_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREAD006_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREAD006_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREAD006_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREAD006_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREAD006_dwi_eddy.nii.gz
+|       |-- sub-FREAD006_dwi_eddy_b0.nii.gz
+|       |-- sub-FREAD006_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREAD006_dwi_epi.nii.gz
+|       |-- sub-FREAD006_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREAD006_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREAD006_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREAD006_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREAD006_dwi_epi_Warped.nii.gz
+|       `-- sub-FREAD006_t1.nii.gz
+|-- sub-FREAD007
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREAD007_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREAD007_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREAD007_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREAD007_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD007/dwi/sub-FREAD007_dwi.bval
+|       |-- sub-FREAD007_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD007/dwi/sub-FREAD007_dwi.bvec
+|       |-- sub-FREAD007_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD007/dwi/sub-FREAD007_dwi.nii.gz
+|       |-- sub-FREAD007_dwi_b0.nii.gz
+|       |-- sub-FREAD007_dwi_b0__mask.nii.gz
+|       |-- sub-FREAD007_dwi_eddy.eddy_command_txt
+|       |-- sub-FREAD007_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREAD007_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREAD007_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREAD007_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREAD007_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREAD007_dwi_eddy.eddy_parameters
+|       |-- sub-FREAD007_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREAD007_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREAD007_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREAD007_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREAD007_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREAD007_dwi_eddy.nii.gz
+|       |-- sub-FREAD007_dwi_eddy_b0.nii.gz
+|       |-- sub-FREAD007_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREAD007_dwi_epi.nii.gz
+|       |-- sub-FREAD007_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREAD007_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREAD007_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREAD007_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREAD007_dwi_epi_Warped.nii.gz
+|       `-- sub-FREAD007_t1.nii.gz
+|-- sub-FREAD008
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREAD008_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREAD008_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREAD008_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREAD008_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD008/dwi/sub-FREAD008_dwi.bval
+|       |-- sub-FREAD008_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD008/dwi/sub-FREAD008_dwi.bvec
+|       |-- sub-FREAD008_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD008/dwi/sub-FREAD008_dwi.nii.gz
+|       |-- sub-FREAD008_dwi_b0.nii.gz
+|       |-- sub-FREAD008_dwi_b0__mask.nii.gz
+|       |-- sub-FREAD008_dwi_eddy.eddy_command_txt
+|       |-- sub-FREAD008_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREAD008_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREAD008_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREAD008_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREAD008_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREAD008_dwi_eddy.eddy_parameters
+|       |-- sub-FREAD008_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREAD008_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREAD008_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREAD008_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREAD008_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREAD008_dwi_eddy.nii.gz
+|       |-- sub-FREAD008_dwi_eddy_b0.nii.gz
+|       |-- sub-FREAD008_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREAD008_dwi_epi.nii.gz
+|       |-- sub-FREAD008_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREAD008_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREAD008_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREAD008_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREAD008_dwi_epi_Warped.nii.gz
+|       `-- sub-FREAD008_t1.nii.gz
+|-- sub-FREAD009
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREAD009_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREAD009_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREAD009_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREAD009_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD009/dwi/sub-FREAD009_dwi.bval
+|       |-- sub-FREAD009_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD009/dwi/sub-FREAD009_dwi.bvec
+|       |-- sub-FREAD009_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD009/dwi/sub-FREAD009_dwi.nii.gz
+|       |-- sub-FREAD009_dwi_b0.nii.gz
+|       |-- sub-FREAD009_dwi_b0__mask.nii.gz
+|       |-- sub-FREAD009_dwi_eddy.eddy_command_txt
+|       |-- sub-FREAD009_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREAD009_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREAD009_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREAD009_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREAD009_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREAD009_dwi_eddy.eddy_parameters
+|       |-- sub-FREAD009_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREAD009_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREAD009_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREAD009_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREAD009_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREAD009_dwi_eddy.nii.gz
+|       |-- sub-FREAD009_dwi_eddy_b0.nii.gz
+|       |-- sub-FREAD009_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREAD009_dwi_epi.nii.gz
+|       |-- sub-FREAD009_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREAD009_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREAD009_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREAD009_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREAD009_dwi_epi_Warped.nii.gz
+|       `-- sub-FREAD009_t1.nii.gz
+|-- sub-FREAD010
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREAD010_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREAD010_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREAD010_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREAD010_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD010/dwi/sub-FREAD010_dwi.bval
+|       |-- sub-FREAD010_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD010/dwi/sub-FREAD010_dwi.bvec
+|       |-- sub-FREAD010_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREAD010/dwi/sub-FREAD010_dwi.nii.gz
+|       |-- sub-FREAD010_dwi_b0.nii.gz
+|       |-- sub-FREAD010_dwi_b0__mask.nii.gz
+|       |-- sub-FREAD010_dwi_eddy.eddy_command_txt
+|       |-- sub-FREAD010_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREAD010_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREAD010_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREAD010_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREAD010_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREAD010_dwi_eddy.eddy_parameters
+|       |-- sub-FREAD010_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREAD010_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREAD010_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREAD010_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREAD010_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREAD010_dwi_eddy.nii.gz
+|       |-- sub-FREAD010_dwi_eddy_b0.nii.gz
+|       |-- sub-FREAD010_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREAD010_dwi_epi.nii.gz
+|       |-- sub-FREAD010_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREAD010_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREAD010_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREAD010_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREAD010_dwi_epi_Warped.nii.gz
+|       `-- sub-FREAD010_t1.nii.gz
+|-- sub-FREHC001
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREHC001_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREHC001_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREHC001_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREHC001_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC001/dwi/sub-FREHC001_dwi.bval
+|       |-- sub-FREHC001_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC001/dwi/sub-FREHC001_dwi.bvec
+|       |-- sub-FREHC001_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC001/dwi/sub-FREHC001_dwi.nii.gz
+|       |-- sub-FREHC001_dwi_b0.nii.gz
+|       |-- sub-FREHC001_dwi_b0__mask.nii.gz
+|       |-- sub-FREHC001_dwi_eddy.eddy_command_txt
+|       |-- sub-FREHC001_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREHC001_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREHC001_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREHC001_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREHC001_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREHC001_dwi_eddy.eddy_parameters
+|       |-- sub-FREHC001_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREHC001_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREHC001_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREHC001_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREHC001_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREHC001_dwi_eddy.nii.gz
+|       |-- sub-FREHC001_dwi_eddy_b0.nii.gz
+|       |-- sub-FREHC001_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREHC001_dwi_epi.nii.gz
+|       |-- sub-FREHC001_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREHC001_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREHC001_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREHC001_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREHC001_dwi_epi_Warped.nii.gz
+|       `-- sub-FREHC001_t1.nii.gz
+|-- sub-FREHC002
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREHC002_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREHC002_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREHC002_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREHC002_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC002/dwi/sub-FREHC002_dwi.bval
+|       |-- sub-FREHC002_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC002/dwi/sub-FREHC002_dwi.bvec
+|       |-- sub-FREHC002_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC002/dwi/sub-FREHC002_dwi.nii.gz
+|       |-- sub-FREHC002_dwi_b0.nii.gz
+|       |-- sub-FREHC002_dwi_b0__mask.nii.gz
+|       |-- sub-FREHC002_dwi_eddy.eddy_command_txt
+|       |-- sub-FREHC002_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREHC002_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREHC002_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREHC002_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREHC002_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREHC002_dwi_eddy.eddy_parameters
+|       |-- sub-FREHC002_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREHC002_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREHC002_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREHC002_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREHC002_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREHC002_dwi_eddy.nii.gz
+|       |-- sub-FREHC002_dwi_eddy_b0.nii.gz
+|       |-- sub-FREHC002_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREHC002_dwi_epi.nii.gz
+|       |-- sub-FREHC002_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREHC002_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREHC002_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREHC002_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREHC002_dwi_epi_Warped.nii.gz
+|       `-- sub-FREHC002_t1.nii.gz
+|-- sub-FREHC003
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREHC003_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREHC003_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREHC003_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREHC003_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC003/dwi/sub-FREHC003_dwi.bval
+|       |-- sub-FREHC003_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC003/dwi/sub-FREHC003_dwi.bvec
+|       |-- sub-FREHC003_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC003/dwi/sub-FREHC003_dwi.nii.gz
+|       |-- sub-FREHC003_dwi_b0.nii.gz
+|       |-- sub-FREHC003_dwi_b0__mask.nii.gz
+|       |-- sub-FREHC003_dwi_eddy.eddy_command_txt
+|       |-- sub-FREHC003_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREHC003_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREHC003_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREHC003_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREHC003_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREHC003_dwi_eddy.eddy_parameters
+|       |-- sub-FREHC003_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREHC003_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREHC003_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREHC003_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREHC003_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREHC003_dwi_eddy.nii.gz
+|       |-- sub-FREHC003_dwi_eddy_b0.nii.gz
+|       |-- sub-FREHC003_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREHC003_dwi_epi.nii.gz
+|       |-- sub-FREHC003_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREHC003_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREHC003_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREHC003_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREHC003_dwi_epi_Warped.nii.gz
+|       `-- sub-FREHC003_t1.nii.gz
+|-- sub-FREHC004
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREHC004_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREHC004_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREHC004_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREHC004_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC004/dwi/sub-FREHC004_dwi.bval
+|       |-- sub-FREHC004_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC004/dwi/sub-FREHC004_dwi.bvec
+|       |-- sub-FREHC004_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC004/dwi/sub-FREHC004_dwi.nii.gz
+|       |-- sub-FREHC004_dwi_b0.nii.gz
+|       |-- sub-FREHC004_dwi_b0__mask.nii.gz
+|       |-- sub-FREHC004_dwi_eddy.eddy_command_txt
+|       |-- sub-FREHC004_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREHC004_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREHC004_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREHC004_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREHC004_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREHC004_dwi_eddy.eddy_parameters
+|       |-- sub-FREHC004_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREHC004_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREHC004_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREHC004_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREHC004_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREHC004_dwi_eddy.nii.gz
+|       |-- sub-FREHC004_dwi_eddy_b0.nii.gz
+|       |-- sub-FREHC004_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREHC004_dwi_epi.nii.gz
+|       |-- sub-FREHC004_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREHC004_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREHC004_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREHC004_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREHC004_dwi_epi_Warped.nii.gz
+|       `-- sub-FREHC004_t1.nii.gz
+|-- sub-FREHC005
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREHC005_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREHC005_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREHC005_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREHC005_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC005/dwi/sub-FREHC005_dwi.bval
+|       |-- sub-FREHC005_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC005/dwi/sub-FREHC005_dwi.bvec
+|       |-- sub-FREHC005_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC005/dwi/sub-FREHC005_dwi.nii.gz
+|       |-- sub-FREHC005_dwi_b0.nii.gz
+|       |-- sub-FREHC005_dwi_b0__mask.nii.gz
+|       |-- sub-FREHC005_dwi_eddy.eddy_command_txt
+|       |-- sub-FREHC005_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREHC005_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREHC005_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREHC005_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREHC005_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREHC005_dwi_eddy.eddy_parameters
+|       |-- sub-FREHC005_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREHC005_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREHC005_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREHC005_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREHC005_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREHC005_dwi_eddy.nii.gz
+|       |-- sub-FREHC005_dwi_eddy_b0.nii.gz
+|       |-- sub-FREHC005_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREHC005_dwi_epi.nii.gz
+|       |-- sub-FREHC005_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREHC005_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREHC005_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREHC005_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREHC005_dwi_epi_Warped.nii.gz
+|       `-- sub-FREHC005_t1.nii.gz
+|-- sub-FREHC006
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREHC006_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREHC006_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREHC006_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREHC006_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC006/dwi/sub-FREHC006_dwi.bval
+|       |-- sub-FREHC006_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC006/dwi/sub-FREHC006_dwi.bvec
+|       |-- sub-FREHC006_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC006/dwi/sub-FREHC006_dwi.nii.gz
+|       |-- sub-FREHC006_dwi_b0.nii.gz
+|       |-- sub-FREHC006_dwi_b0__mask.nii.gz
+|       |-- sub-FREHC006_dwi_eddy.eddy_command_txt
+|       |-- sub-FREHC006_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREHC006_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREHC006_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREHC006_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREHC006_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREHC006_dwi_eddy.eddy_parameters
+|       |-- sub-FREHC006_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREHC006_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREHC006_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREHC006_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREHC006_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREHC006_dwi_eddy.nii.gz
+|       |-- sub-FREHC006_dwi_eddy_b0.nii.gz
+|       |-- sub-FREHC006_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREHC006_dwi_epi.nii.gz
+|       |-- sub-FREHC006_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREHC006_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREHC006_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREHC006_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREHC006_dwi_epi_Warped.nii.gz
+|       `-- sub-FREHC006_t1.nii.gz
+|-- sub-FREHC007
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREHC007_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREHC007_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREHC007_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREHC007_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC007/dwi/sub-FREHC007_dwi.bval
+|       |-- sub-FREHC007_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC007/dwi/sub-FREHC007_dwi.bvec
+|       |-- sub-FREHC007_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC007/dwi/sub-FREHC007_dwi.nii.gz
+|       |-- sub-FREHC007_dwi_b0.nii.gz
+|       |-- sub-FREHC007_dwi_b0__mask.nii.gz
+|       |-- sub-FREHC007_dwi_eddy.eddy_command_txt
+|       |-- sub-FREHC007_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREHC007_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREHC007_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREHC007_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREHC007_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREHC007_dwi_eddy.eddy_parameters
+|       |-- sub-FREHC007_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREHC007_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREHC007_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREHC007_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREHC007_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREHC007_dwi_eddy.nii.gz
+|       |-- sub-FREHC007_dwi_eddy_b0.nii.gz
+|       |-- sub-FREHC007_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREHC007_dwi_epi.nii.gz
+|       |-- sub-FREHC007_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREHC007_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREHC007_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREHC007_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREHC007_dwi_epi_Warped.nii.gz
+|       `-- sub-FREHC007_t1.nii.gz
+|-- sub-FREHC008
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREHC008_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREHC008_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREHC008_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREHC008_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC008/dwi/sub-FREHC008_dwi.bval
+|       |-- sub-FREHC008_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC008/dwi/sub-FREHC008_dwi.bvec
+|       |-- sub-FREHC008_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC008/dwi/sub-FREHC008_dwi.nii.gz
+|       |-- sub-FREHC008_dwi_b0.nii.gz
+|       |-- sub-FREHC008_dwi_b0__mask.nii.gz
+|       |-- sub-FREHC008_dwi_eddy.eddy_command_txt
+|       |-- sub-FREHC008_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREHC008_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREHC008_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREHC008_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREHC008_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREHC008_dwi_eddy.eddy_parameters
+|       |-- sub-FREHC008_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREHC008_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREHC008_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREHC008_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREHC008_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREHC008_dwi_eddy.nii.gz
+|       |-- sub-FREHC008_dwi_eddy_b0.nii.gz
+|       |-- sub-FREHC008_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREHC008_dwi_epi.nii.gz
+|       |-- sub-FREHC008_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREHC008_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREHC008_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREHC008_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREHC008_dwi_epi_Warped.nii.gz
+|       `-- sub-FREHC008_t1.nii.gz
+|-- sub-FREHC009
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREHC009_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREHC009_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREHC009_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREHC009_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC009/dwi/sub-FREHC009_dwi.bval
+|       |-- sub-FREHC009_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC009/dwi/sub-FREHC009_dwi.bvec
+|       |-- sub-FREHC009_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC009/dwi/sub-FREHC009_dwi.nii.gz
+|       |-- sub-FREHC009_dwi_b0.nii.gz
+|       |-- sub-FREHC009_dwi_b0__mask.nii.gz
+|       |-- sub-FREHC009_dwi_eddy.eddy_command_txt
+|       |-- sub-FREHC009_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREHC009_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREHC009_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREHC009_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREHC009_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREHC009_dwi_eddy.eddy_parameters
+|       |-- sub-FREHC009_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREHC009_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREHC009_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREHC009_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREHC009_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREHC009_dwi_eddy.nii.gz
+|       |-- sub-FREHC009_dwi_eddy_b0.nii.gz
+|       |-- sub-FREHC009_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREHC009_dwi_epi.nii.gz
+|       |-- sub-FREHC009_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREHC009_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREHC009_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREHC009_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREHC009_dwi_epi_Warped.nii.gz
+|       `-- sub-FREHC009_t1.nii.gz
+|-- sub-FREHC010
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREHC010_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREHC010_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREHC010_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREHC010_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC010/dwi/sub-FREHC010_dwi.bval
+|       |-- sub-FREHC010_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC010/dwi/sub-FREHC010_dwi.bvec
+|       |-- sub-FREHC010_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC010/dwi/sub-FREHC010_dwi.nii.gz
+|       |-- sub-FREHC010_dwi_b0.nii.gz
+|       |-- sub-FREHC010_dwi_b0__mask.nii.gz
+|       |-- sub-FREHC010_dwi_eddy.eddy_command_txt
+|       |-- sub-FREHC010_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREHC010_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREHC010_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREHC010_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREHC010_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREHC010_dwi_eddy.eddy_parameters
+|       |-- sub-FREHC010_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREHC010_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREHC010_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREHC010_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREHC010_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREHC010_dwi_eddy.nii.gz
+|       |-- sub-FREHC010_dwi_eddy_b0.nii.gz
+|       |-- sub-FREHC010_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREHC010_dwi_epi.nii.gz
+|       |-- sub-FREHC010_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREHC010_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREHC010_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREHC010_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREHC010_dwi_epi_Warped.nii.gz
+|       `-- sub-FREHC010_t1.nii.gz
+|-- sub-FREHC011
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREHC011_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREHC011_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREHC011_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREHC011_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC011/dwi/sub-FREHC011_dwi.bval
+|       |-- sub-FREHC011_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC011/dwi/sub-FREHC011_dwi.bvec
+|       |-- sub-FREHC011_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC011/dwi/sub-FREHC011_dwi.nii.gz
+|       |-- sub-FREHC011_dwi_b0.nii.gz
+|       |-- sub-FREHC011_dwi_b0__mask.nii.gz
+|       |-- sub-FREHC011_dwi_eddy.eddy_command_txt
+|       |-- sub-FREHC011_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREHC011_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREHC011_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREHC011_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREHC011_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREHC011_dwi_eddy.eddy_parameters
+|       |-- sub-FREHC011_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREHC011_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREHC011_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREHC011_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREHC011_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREHC011_dwi_eddy.nii.gz
+|       |-- sub-FREHC011_dwi_eddy_b0.nii.gz
+|       |-- sub-FREHC011_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREHC011_dwi_epi.nii.gz
+|       |-- sub-FREHC011_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREHC011_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREHC011_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREHC011_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREHC011_dwi_epi_Warped.nii.gz
+|       `-- sub-FREHC011_t1.nii.gz
+|-- sub-FREHC012
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREHC012_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREHC012_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREHC012_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREHC012_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC012/dwi/sub-FREHC012_dwi.bval
+|       |-- sub-FREHC012_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC012/dwi/sub-FREHC012_dwi.bvec
+|       |-- sub-FREHC012_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC012/dwi/sub-FREHC012_dwi.nii.gz
+|       |-- sub-FREHC012_dwi_b0.nii.gz
+|       |-- sub-FREHC012_dwi_b0__mask.nii.gz
+|       |-- sub-FREHC012_dwi_eddy.eddy_command_txt
+|       |-- sub-FREHC012_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREHC012_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREHC012_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREHC012_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREHC012_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREHC012_dwi_eddy.eddy_parameters
+|       |-- sub-FREHC012_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREHC012_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREHC012_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREHC012_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREHC012_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREHC012_dwi_eddy.nii.gz
+|       |-- sub-FREHC012_dwi_eddy_b0.nii.gz
+|       |-- sub-FREHC012_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREHC012_dwi_epi.nii.gz
+|       |-- sub-FREHC012_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREHC012_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREHC012_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREHC012_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREHC012_dwi_epi_Warped.nii.gz
+|       `-- sub-FREHC012_t1.nii.gz
+|-- sub-FREHC013
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREHC013_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREHC013_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREHC013_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREHC013_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC013/dwi/sub-FREHC013_dwi.bval
+|       |-- sub-FREHC013_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC013/dwi/sub-FREHC013_dwi.bvec
+|       |-- sub-FREHC013_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC013/dwi/sub-FREHC013_dwi.nii.gz
+|       |-- sub-FREHC013_dwi_b0.nii.gz
+|       |-- sub-FREHC013_dwi_b0__mask.nii.gz
+|       |-- sub-FREHC013_dwi_eddy.eddy_command_txt
+|       |-- sub-FREHC013_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREHC013_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREHC013_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREHC013_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREHC013_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREHC013_dwi_eddy.eddy_parameters
+|       |-- sub-FREHC013_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREHC013_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREHC013_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREHC013_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREHC013_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREHC013_dwi_eddy.nii.gz
+|       |-- sub-FREHC013_dwi_eddy_b0.nii.gz
+|       |-- sub-FREHC013_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREHC013_dwi_epi.nii.gz
+|       |-- sub-FREHC013_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREHC013_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREHC013_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREHC013_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREHC013_dwi_epi_Warped.nii.gz
+|       `-- sub-FREHC013_t1.nii.gz
+|-- sub-FREHC014
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREHC014_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREHC014_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREHC014_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREHC014_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC014/dwi/sub-FREHC014_dwi.bval
+|       |-- sub-FREHC014_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC014/dwi/sub-FREHC014_dwi.bvec
+|       |-- sub-FREHC014_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC014/dwi/sub-FREHC014_dwi.nii.gz
+|       |-- sub-FREHC014_dwi_b0.nii.gz
+|       |-- sub-FREHC014_dwi_b0__mask.nii.gz
+|       |-- sub-FREHC014_dwi_eddy.eddy_command_txt
+|       |-- sub-FREHC014_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREHC014_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREHC014_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREHC014_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREHC014_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREHC014_dwi_eddy.eddy_parameters
+|       |-- sub-FREHC014_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREHC014_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREHC014_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREHC014_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREHC014_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREHC014_dwi_eddy.nii.gz
+|       |-- sub-FREHC014_dwi_eddy_b0.nii.gz
+|       |-- sub-FREHC014_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREHC014_dwi_epi.nii.gz
+|       |-- sub-FREHC014_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREHC014_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREHC014_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREHC014_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREHC014_dwi_epi_Warped.nii.gz
+|       `-- sub-FREHC014_t1.nii.gz
+|-- sub-FREHC015
+|   `-- dwi
+|       |-- acqparams.txt
+|       |-- index.txt
+|       |-- sub-FREHC015_T1toEddyB0_0GenericAffine.mat
+|       |-- sub-FREHC015_T1toEddyB0_InverseWarped.nii.gz
+|       |-- sub-FREHC015_T1toEddyB0_Warped.nii.gz
+|       |-- sub-FREHC015_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC015/dwi/sub-FREHC015_dwi.bval
+|       |-- sub-FREHC015_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC015/dwi/sub-FREHC015_dwi.bvec
+|       |-- sub-FREHC015_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC015/dwi/sub-FREHC015_dwi.nii.gz
+|       |-- sub-FREHC015_dwi_b0.nii.gz
+|       |-- sub-FREHC015_dwi_b0__mask.nii.gz
+|       |-- sub-FREHC015_dwi_eddy.eddy_command_txt
+|       |-- sub-FREHC015_dwi_eddy.eddy_movement_rms
+|       |-- sub-FREHC015_dwi_eddy.eddy_outlier_map
+|       |-- sub-FREHC015_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+|       |-- sub-FREHC015_dwi_eddy.eddy_outlier_n_stdev_map
+|       |-- sub-FREHC015_dwi_eddy.eddy_outlier_report
+|       |-- sub-FREHC015_dwi_eddy.eddy_parameters
+|       |-- sub-FREHC015_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+|       |-- sub-FREHC015_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+|       |-- sub-FREHC015_dwi_eddy.eddy_restricted_movement_rms
+|       |-- sub-FREHC015_dwi_eddy.eddy_rotated_bvecs
+|       |-- sub-FREHC015_dwi_eddy.eddy_values_of_all_input_parameters
+|       |-- sub-FREHC015_dwi_eddy.nii.gz
+|       |-- sub-FREHC015_dwi_eddy_b0.nii.gz
+|       |-- sub-FREHC015_dwi_eddy_b0_mask.nii.gz
+|       |-- sub-FREHC015_dwi_epi.nii.gz
+|       |-- sub-FREHC015_dwi_epi_0GenericAffine.mat
+|       |-- sub-FREHC015_dwi_epi_1InverseWarp.nii.gz
+|       |-- sub-FREHC015_dwi_epi_1Warp.nii.gz
+|       |-- sub-FREHC015_dwi_epi_InverseWarped.nii.gz
+|       |-- sub-FREHC015_dwi_epi_Warped.nii.gz
+|       `-- sub-FREHC015_t1.nii.gz
+`-- sub-FREHC016
+    `-- dwi
+        |-- acqparams.txt
+        |-- index.txt
+        |-- sub-FREHC016_T1toEddyB0_0GenericAffine.mat
+        |-- sub-FREHC016_T1toEddyB0_InverseWarped.nii.gz
+        |-- sub-FREHC016_T1toEddyB0_Warped.nii.gz
+        |-- sub-FREHC016_dwi.bval -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC016/dwi/sub-FREHC016_dwi.bval
+        |-- sub-FREHC016_dwi.bvec -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC016/dwi/sub-FREHC016_dwi.bvec
+        |-- sub-FREHC016_dwi.nii.gz -> /fslhome/oct0695/psych516/EDSD/my_dataset/sub-FREHC016/dwi/sub-FREHC016_dwi.nii.gz
+        |-- sub-FREHC016_dwi_b0.nii.gz
+        |-- sub-FREHC016_dwi_b0__mask.nii.gz
+        |-- sub-FREHC016_dwi_eddy.eddy_command_txt
+        |-- sub-FREHC016_dwi_eddy.eddy_movement_rms
+        |-- sub-FREHC016_dwi_eddy.eddy_outlier_map
+        |-- sub-FREHC016_dwi_eddy.eddy_outlier_n_sqr_stdev_map
+        |-- sub-FREHC016_dwi_eddy.eddy_outlier_n_stdev_map
+        |-- sub-FREHC016_dwi_eddy.eddy_outlier_report
+        |-- sub-FREHC016_dwi_eddy.eddy_parameters
+        |-- sub-FREHC016_dwi_eddy.eddy_post_eddy_shell_PE_translation_parameters
+        |-- sub-FREHC016_dwi_eddy.eddy_post_eddy_shell_alignment_parameters
+        |-- sub-FREHC016_dwi_eddy.eddy_restricted_movement_rms
+        |-- sub-FREHC016_dwi_eddy.eddy_rotated_bvecs
+        |-- sub-FREHC016_dwi_eddy.eddy_values_of_all_input_parameters
+        |-- sub-FREHC016_dwi_eddy.nii.gz
+        |-- sub-FREHC016_dwi_eddy_b0.nii.gz
+        |-- sub-FREHC016_dwi_eddy_b0_mask.nii.gz
+        |-- sub-FREHC016_dwi_epi.nii.gz
+        |-- sub-FREHC016_dwi_epi_0GenericAffine.mat
+        |-- sub-FREHC016_dwi_epi_1InverseWarp.nii.gz
+        |-- sub-FREHC016_dwi_epi_1Warp.nii.gz
+        |-- sub-FREHC016_dwi_epi_InverseWarped.nii.gz
+        |-- sub-FREHC016_dwi_epi_Warped.nii.gz
+        `-- sub-FREHC016_t1.nii.gz
+
+52 directories, 832 files
